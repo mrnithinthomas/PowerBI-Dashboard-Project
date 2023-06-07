@@ -16,12 +16,23 @@ By leveraging the capabilities of PowerBI, this dashboard serves as a valuable t
 
 Please note that the specific content and design of the dashboard may vary based on the availability and scope of COVID-19 data. The above project description provides a general overview of the project, emphasizing the focus on COVID-19 case insights and the utilization of PowerBI as the chosen visualization platform.
 
+Please see below the images of the dashboard and various titles:-
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/0a44eb67-d17a-4b95-9ac5-2d9251b066d5)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/e0d668b9-1ab3-4281-9a55-5d3d6e385aff)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/6e740dee-2164-4b0d-be58-f951dc140298)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/9bd98e00-12f8-4c5f-b9b4-eef0adb66641)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/58981d9c-f2d7-48bc-957f-8b3b2175be92)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/204ce8d6-a239-4c68-a581-5ac1906c7793)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/ce87c7bb-614f-4add-9cbf-9fb2cc2b5835)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/d1fcede7-bf22-4de3-8fb2-699da13548a7)
+
 ![image](https://github.com/mrnithinthomas/PowerBI-Dashboard-Project/assets/92197644/2a7d1a16-b807-4e06-aeb4-06c1a1ec6847)
+
